@@ -3,7 +3,7 @@
 require "Config.php";
 require "Controller.php";
 require "Database.php";
-require "Model.php";
+require "Model.php";;
 
 Class Boot {
 
